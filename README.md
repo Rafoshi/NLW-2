@@ -30,5 +30,4 @@ This project uses this tools:
 Proffy is a plataform for online study, to connecting the Proffys (teachers), who decide their price and schedule, with the students.
 
 ## 💻 Layout
-You can see the design layout on the figma link bellow:
-[Figma Link](<https://www.figma.com/file/XUUQD2R3htg7gfwrc7lhnw/Proffy_Web?node-id=0%3A1).
+You can see the design layout on the figma link bellow: [Figma Link](<https://www.figma.com/file/XUUQD2R3htg7gfwrc7lhnw/Proffy_Web?node-id=0%3A1)
