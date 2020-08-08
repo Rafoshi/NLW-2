@@ -27,7 +27,7 @@ This project uses this tools:
 
 
 ## 📖 About The Projeto
-Proffy is a plataform for online study, connecting the Proffys (teachers) with the students.
+Proffy is a plataform for online study, to connecting the Proffys (teachers), who decide their price and schedule, with the students.
 
 ## 💻 Layout
 You can see the design layout on the figma link bellow:
