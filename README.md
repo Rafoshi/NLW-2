@@ -31,4 +31,5 @@ Proffy is a plataform for online study, to connecting the Proffys (teachers), wh
 
 ## 💻 Layout
 You can see the design layout on the figma link bellow: 
+<br>
 [Figma Link](https://www.figma.com/file/XUUQD2R3htg7gfwrc7lhnw/Proffy_Web?node-id=0%3A1)
